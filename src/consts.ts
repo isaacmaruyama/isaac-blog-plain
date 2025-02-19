@@ -33,8 +33,8 @@ export const NAV_ITEMS = [
 // 博客配置
 export const BLOG_CONFIG = {
   locale: "en-us", // 日期格式化语言
-  profile: "https://github.com/churchTao",
-  authorName: "Author Name", // 作者名称
+  profile: "https://isaacmaruyama.com", // 作者个人主页
+  authorName: "Isaac Maruyama", // 作者名称
   email: "mailto:your-email@example.com",
   tags: {
     title: "Tags", // 标签页面标题
