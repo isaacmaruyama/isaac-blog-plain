@@ -119,6 +119,15 @@ hr {
 
 img {
   max-width: 100%;
+  display: flex;
+  justify-content: center;
+  border-radius: 2.5%;
+
+}
+
+.profile-img {
+  display: flex;
+  justify-content: center;  /* Centers horizontally */
 }
 
 blockquote {
