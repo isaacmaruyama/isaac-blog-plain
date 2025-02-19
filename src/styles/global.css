@@ -7,10 +7,10 @@
 :root {
   --width: 720px;
   --min-height: 100vh;
-  --font-main: Verdana, sans-serif;
-  --font-secondary: Verdana, sans-serif;
+  --font-main: Century Gothic, sans-serif;
+  --font-secondary: Century Gothic, sans-serif;
   --font-scale: 1em;
-  --background-color: #FFFFF0;
+  --background-color: #FFFFFF;
   --heading-color: #222;
   --text-color: #444;
   --link-color: #0062ff;
