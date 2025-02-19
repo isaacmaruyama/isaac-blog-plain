@@ -10,7 +10,7 @@
   --font-main: Verdana, sans-serif;
   --font-secondary: Verdana, sans-serif;
   --font-scale: 1em;
-  --background-color: #fffcf5;
+  --background-color: #FFFFF0;
   --heading-color: #222;
   --text-color: #444;
   --link-color: #0062ff;
@@ -24,7 +24,7 @@
 }
 
 :root[data-theme="dark"] {
-  --background-color: linear-gradient(#424f56, #928660);
+  --background-color: #131418;
   --heading-color: #fff;
   --text-color: #fff;
   --link-color: #64ccff;

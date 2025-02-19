@@ -1,0 +1,20 @@
+---
+title: "Faraday's Answer"
+description: "Brief essay on the importance of science"
+pubDate: "Jul 16 2019"
+updatedDate: "Feb 19 2025"
+hide: false
+tags:
+  - essays
+  - tags    
+---
+
+There’s an old anecdote about Michael Faraday, the British scientist who in 1831 discovered the principle of electromagnetic induction and made possible the later invention of both the electric motor and the generator. Upon seeing one of his early electromagnetic devices, the prime minister of England supposedly asked him how useful electricity could possibly be. Faraday answered, “I do not know, sir, but someday you may tax it.”
+
+Faraday’s answer brings up a very important point: science always yields something useful, even if it isn’t discovered until years after the initial experiment. When radio waves were first discovered, they were just another type of radiation until Marconi invented the radio in 1895. There’s a reason why the fundamental laws of nature are rarely discovered by accountants. It’s impossible to push forward the boundaries of human knowledge if you have to do a cost-benefit analysis every time you light up a bunsen burner.
+
+Science, especially pure science, is greatly undervalued in the modern world. Doing experiments over and over again without knowing if they are going to yield a tangible result is a very hard thing to sell to a company executive or a senator. In the short run, this makes sense. There are certainly more pressing issues in the world than discovering the Higgs Boson or determining the composition of the universe. So the government spends its money building roads and bridges, providing some of its citizens with healthcare, and building weapons to fight the kinds of wars that may no longer exist. We’ve decided to play the short game. We’re trying to make better horse-drawn carriages when we need to be inventing the car.
+
+In the 1400s, the Chinese fleet was the greatest in the world. The explorer Zheng He embarked on voyages all around the Indian Ocean. Then, in 1470, the government revoked its support of exploration, and destroyed He’s records to prevent others from following his example. By 1525 the entire Chinese fleet was destroyed too. Maybe China could have beaten out Europe, formed colonies of its own, and ended up dominating the modern world. But its leaders chose the path of conservatism and isolation. They were playing the short game too. What would our nation look like if we decided to play the long game instead? Instead of adding more and more lanes to every highway, we could develop the technology to use a different kind of transportation altogether. Instead of prescribing sick patients overpriced and often ineffective drugs, we could develop the technology to prevent their illnesses from ever occurring in the first place. Instead of building Howitzers, we could develop the technology to keep people safe without harming anyone else.
+
+This is not to say, of course, that no one is doing science with this intent. There are people all over the world working on these problems, and many more will join them. But for the governments and corporations that inevitably decide how we spend the majority of our resources as a civilization, the incentive to do likewise is not present. For a drug company to stay afloat, it can’t spend all of its money working to make its product as safe and effective as possible. It must use its resources to advertise and lobby instead. Science will prevail only when we decide to re-engineer the way society functions to provide individuals and organizations on every scale with the incentive to innovate and improve instead of remaining stagnant. Not every experiment will be successful. But they don’t need to be, because every success will open the floodgates for many more. If we truly dedicate ourselves toward the pursuit of knowledge and invention, our growth as a species will become even more exponential. I’d like to see a world where that happens. But until then, we’ll just have to be like Faraday—boldly pushing onward, even if we don’t always know exactly where we’re going.
