@@ -25,10 +25,11 @@ export const SEO_CONFIG = {
 
 // 导航配置
 export const NAV_ITEMS = [
-  { text: "Home", link: "/" },
-  { text: "Blog", link: "/blog" },
-  { text: "Tags", link: "/tags" },
-  { text: "About", link: "/about" },
+  { text: "HOME", link: "/" },
+  { text: "MUSIC", link: "/music" },
+  { text: "BLOG", link: "/blog" },
+  { text: "TAGS", link: "/tags" },
+  { text: "ABOUT", link: "/about" },
 ];
 
 // 博客配置
