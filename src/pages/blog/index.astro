@@ -10,6 +10,7 @@ const posts = (await getCollection("blog", post => !post.data.hide)).sort(
 ---
 
 <Layout>
+  <h2>Blog</h2>
   <ul class="blog-posts">
     {
       posts.map(post => (

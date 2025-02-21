@@ -99,9 +99,9 @@ button {
 }
 
 time {
-  font-family: monospace;
+  font-family: var(--font-secondary);
   font-style: normal;
-  font-size: 15px;
+  font-size: var(--font-scale);
 }
 
 main {

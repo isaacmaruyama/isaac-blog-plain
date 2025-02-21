@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 // 网站配置
-export const SITE_TITLE = "Isaac's Blog";
+export const SITE_TITLE = "Isaac Maruyama";
 export const SITE_DESCRIPTION = "Thoughts on music, books, politics, and life.";
 export const COPYRIGHT = "© 2025 Isaac Maruyama";
 export const ICP_NUMBER = "";
@@ -28,6 +28,7 @@ export const NAV_ITEMS = [
   { text: "Home", link: "/" },
   { text: "Blog", link: "/blog" },
   { text: "Tags", link: "/tags" },
+  { text: "About", link: "/about" },
 ];
 
 // 博客配置

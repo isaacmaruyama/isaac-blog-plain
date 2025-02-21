@@ -4,16 +4,8 @@ import icons, { getSizedIcon } from "../assets/icons";
 ---
 
 <footer>
-  <small
-    >{COPYRIGHT && `${COPYRIGHT}`}
-    {COPYRIGHT && ICP_NUMBER && "｜"}
-    {
-      ICP_NUMBER && (
-        <a href="https://beian.miit.gov.cn/" target="_blank">
-          {ICP_NUMBER}
-        </a>
-      )
-    }
+  <small>
+    {COPYRIGHT && `${COPYRIGHT}`}
   </small>
   <br />
   <div class="social-links" role="navigation" aria-label="social links">
