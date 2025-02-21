@@ -19,7 +19,7 @@ export const SOCIAL_LINKS = {
 
 // SEO 相关
 export const SEO_CONFIG = {
-  ogImage: "/hero-img.png", // 默认的社交媒体分享图片
+  ogImage: "/images/isaac.jpg", // 默认的社交媒体分享图片
   keywords: "blog, economics, music, fiction", // 默认关键词
 };
 
